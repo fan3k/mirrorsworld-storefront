@@ -1,22 +1,11 @@
 {
-  // Array of collection addresses
-  "collections": ["5mUvyrMfqbKdoixWTy5VXycbAzi92vn1Nr8PXwitWPGZ"],
-
-  // API Key
+  "collections": [
+    "5mUvyrMfqbKdoixWTy5VXycbAzi92vn1Nr8PXwitWPGZ"
+  ],
   "xApiKey": "mw_2SbySz1nmG6hXpCV3tX2SEot9XioGiiUesE",
-
-  // Marketplace commission fee in percentage
-  "serviceFee": 4.25,
-
-  // Marketplace storefront currency
+  "serviceFee": "4.25",
   "currencyOption": "SOL",
-
-  // Storefront name
-  "name": "MY_AWESOME_STOREFRONT",
-
-  // Storefront Logo URL
-  "logo": "",
-
-  // Storefront Network
+  "name": "DropSt3r NFT",
+  "logo": "Please enter your logo image URL",
   "network": "devnet"
 }
