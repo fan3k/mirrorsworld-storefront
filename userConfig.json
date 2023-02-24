@@ -1,11 +1,22 @@
 {
-  "collections": [
-    "Please enter your Collection ID"
-  ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  // Array of collection addresses
+  "collections": ["5mUvyrMfqbKdoixWTy5VXycbAzi92vn1Nr8PXwitWPGZ"],
+
+  // API Key
+  "xApiKey": "mw_2SbySz1nmG6hXpCV3tX2SEot9XioGiiUesE",
+
+  // Marketplace commission fee in percentage
+  "serviceFee": 4.25,
+
+  // Marketplace storefront currency
+  "currencyOption": "SOL",
+
+  // Storefront name
+  "name": "MY_AWESOME_STOREFRONT",
+
+  // Storefront Logo URL
+  "logo": "",
+
+  // Storefront Network
+  "network": "devnet"
 }
