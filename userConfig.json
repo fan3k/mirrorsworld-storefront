@@ -1,11 +1,23 @@
 {
+
   "collections": [
+
+    "7xDs5UeeaaHY2jb6QAmDAYKmXHUkY3PgUkvsjTgP96hR",
+
     "5mUvyrMfqbKdoixWTy5VXycbAzi92vn1Nr8PXwitWPGZ"
+
   ],
+
+  "network": "devnet",
+
   "xApiKey": "mw_2SbySz1nmG6hXpCV3tX2SEot9XioGiiUesE",
-  "serviceFee": "4.25",
-  "currencyOption": "SOL",
-  "name": "DropSt3r NFT",
-  "logo": "Please enter your logo image URL",
-  "network": "devnet"
+
+  "serviceFee": 10,
+
+  "currencyOption": "USDC",
+
+  "name": "DropSt3r",
+
+  "logo": "https://collections.mirrorworld.fun/1677222075963-joker.jpg"
+
 }
